@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" heigth= "200"/>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Jose Humberto Ruz Salvador</h1>
 <h3 align="center">A passionate developer from mexico</h3>
 
